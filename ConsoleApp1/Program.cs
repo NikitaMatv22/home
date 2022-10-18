@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             // 4.8
             //По По номеру дня недели вывести его название.
-
+             Console.WriteLine("введите номер дня недели ");
             Console.WriteLine("введите номер дня недели ");
             int a =Int32.Parse(Console.ReadLine());
             switch (a)
